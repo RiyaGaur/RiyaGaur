@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **anything you feel like!**
 
-- 📫 How to reach me **riya.gaur_cs18@gla.ac.in**
+- 📫 How to reach me **<a href"mailto:riya.gaur_cs18@gla.ac.in" target="_blank">riya.gaur_cs18@gla.ac.in</a>**
 
 
 <br>
@@ -45,18 +45,18 @@
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/riya-gaur-6aa717194/" target="_blank">
-  <img align="left" alt="sameeksha-rathi-7a0164141" | Linkedin" title="LinkedIn"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"> 
+  <img align="left" alt="riya-gaur-6aa717194 | Linkedin" title="LinkedIn"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"> 
 </a>                                                                                                                                     
 <a href="https://www.hackerrank.com/_181500587" target="_blank">
-  <img align="left" alt="sameeksha" | HackerRank" title="HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg"> 
+  <img align="left" alt="Riya | HackerRank" title="HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg"> 
 </a>
 <a href="https://twitter.com/RiyaGau85455794" target="_blank">
-  <img align="left" alt="sameeksha__r | Twitter" title="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg">
+  <img align="left" alt="Riya | Twitter" title="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg">
 </a>                                                                                                                                                                             <a href="https://www.kaggle.com/riyagaur" target="_blank">
-  <img align="left" alt="sameeksharathi | Kaggle" title="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg">
+  <img align="left" alt="Riya | Kaggle" title="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg">
 </a>                                               
 <a href="https://www.instagram.com/riyagaur_2908/" target="_blank">
-  <img align="left" alt="sameeksha.___ | Instagram" title="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg">
+  <img align="left" alt="Riya | Instagram" title="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg">
 </a>
 
 <br />
