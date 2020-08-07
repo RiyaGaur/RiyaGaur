@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **anything you feel like!**
 
-- 📫 How to reach me <a href"mailto:riya.gaur_cs18@gla.ac.in" target="_blank">**riya.gaur_cs18@gla.ac.in**</a>
+- 📫 How to reach me <a href="mailto:riya.gaur_cs18@gla.ac.in" target="_blank">**riya.gaur_cs18@gla.ac.in**</a>
 
 
 <br>
