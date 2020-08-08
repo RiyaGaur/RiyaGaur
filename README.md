@@ -26,8 +26,8 @@
 <br>
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+BLOG-POST-LIST:START 
+BLOG-POST-LIST:END 
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyaGaur&layout=compact&hide=html&hide_border=true,issues&theme=gruvbox" alt="Riya Gaur" />
@@ -40,7 +40,7 @@
 <br />
 <br />
 <br />
-
+BLOG-POST-LIST:END
 <hr>
 
 ### Connect with me:
