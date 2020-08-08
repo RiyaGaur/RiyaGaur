@@ -8,7 +8,7 @@
 #### 👩‍🎓 I am an Undergraduate, always curious about Data, willing to fun with it 👩‍💻. <br /> Besides programming, I enjoy travelling 🚀 with music🎶.
 
 <br />
-<img align="right" alt="GIF" src="https://media1.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp?cid=ecf05e47jv9vqfghnqgf3jd12b59rcc35c202hskqn84wb4h&rid=200w.webp" width="400px" />
+<img align="right" alt="GIF" src="https://media1.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp?cid=ecf05e47jv9vqfghnqgf3jd12b59rcc35c202hskqn84wb4h&rid=200w.webp" width="200px" />
 
 - 🌱 I’m currently learning **Machine Learning**
 
