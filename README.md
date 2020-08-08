@@ -8,7 +8,7 @@
 #### 👩‍🎓 I am an Undergraduate, always curious about Data, willing to fun with it 👩‍💻. <br /> Besides programming, I enjoy travelling 🚀 with music🎶.
 
 <br />
-<img align="right" alt="GIF" src="https://media1.giphy.com/media/p4NLw3I4U0idi/200.webp?cid=ecf05e47ut5pr45pj9m7x00dco0dgwmqq1so04zmjkqx6daz&rid=200.webp" width="400px" />
+<img align="right" alt="GIF" src="https://media1.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp?cid=ecf05e47jv9vqfghnqgf3jd12b59rcc35c202hskqn84wb4h&rid=200w.webp" width="400px" />
 
 - 🌱 I’m currently learning **Machine Learning**
 
@@ -26,7 +26,7 @@
 <br>
 
 ### Blogs posts
-BLOG-POST-LIST:START 
+ 
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyaGaur&layout=compact&hide=html&hide_border=true,issues&theme=gruvbox" alt="Riya Gaur" />
@@ -39,7 +39,7 @@ BLOG-POST-LIST:START
 <br />
 <br />
 <br />
-BLOG-POST-LIST:END
+
 <hr>
 
 ### Connect with me:
