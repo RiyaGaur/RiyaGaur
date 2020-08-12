@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, This is Riya Gaur. 👋</h1>
-
 <h3 align="center">A passionate Machine Learning and Data Science Enthusiast from India.</h3>
 
 <br>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RiyaGaur" alt="Riya Gaur" /> </p>
 
